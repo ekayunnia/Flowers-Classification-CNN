@@ -1,7 +1,7 @@
 
 ![162362897_1d21b70621_m](https://user-images.githubusercontent.com/63344621/147844799-9d32cb9c-66be-41c6-ad8f-d00f571b584d.jpg)
 
-**Image Classification Flowers_270-268**
+**Image Classification Flowers_268-270**
 -----------------------------------------------------------------------
 **Deskripsi** 
 
@@ -17,10 +17,8 @@ Tulip = 984 image flowers
 
 -----------------------------------------------------------------------
 **Teknik Deep Learning**
-- Alogaritma Artificial Neural Network (ANN)
 - Alogaritma Convolutional Neural Network (CNN)
-- Alogaritma Transfer Learning VGG16
-- Alogaritma Transfer Learning InceptionV3
+- Alogaritma Transfer Learning MobileNet
 
 -----------------------------------------------------------------------
 **Jurnal referensi**
@@ -29,11 +27,10 @@ https://www.researchgate.net/profile/Mohd-Azlan-Abu/publication/332850035_A_stud
 - An Image Classification Approach based on Deep Learning
 https://iopscience.iop.org/article/10.1088/1757-899X/768/7/072055/meta
 
------------------------------------------------------------------------
-**PAPER Improving**
-Penanganan masalah overfiting dan underfiting pada klasifikasi jenis bunga CNN
 
-URL : https://drive.google.com/drive/folders/1dFR5aABm1CwT2ptwrvvO5OG1sIGYgSyX?usp=sharing
+-----------------------------------------------------------------------
+**Penjelasan Video**
+URL : https://drive.google.com/file/d/1ZIfOLIUOQr9uxPB22RX_QFRdLhEXzFjM/view
 
 
 -----------------------------------------------------------------------
@@ -45,11 +42,6 @@ URL : https://drive.google.com/drive/folders/1dFR5aABm1CwT2ptwrvvO5OG1sIGYgSyX?u
 **Penyimpanan Model**
 - .h5
 - .json
-- .tflite
-
-Link Model : 
-ANN - CNN - VGG16 - InceptionV3
-https://drive.google.com/drive/folders/15X8_Q4ZgH_dSQ0DEfJDdqH3ulur5I8Dz?usp=sharing
 
 -----------------------------------------------------------------------
 **Authors**
